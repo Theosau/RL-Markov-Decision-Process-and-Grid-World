@@ -1,8 +1,8 @@
 # RL-Markov-Decision-Process-and-Grid-World
 
-The goal of this project was to explore Grid World and solving for the optimal policy and value function at each states.
+The goal of this project was to explore a Grid World setting and to solve for the optimal policy and value function at each states.
 
-The Grid World of interest was a 4x4 grid, with state [0, 1] and [3, 2] as positive and negative reward states. The positions [1, 2], [2, 0], [3, 0], [3, 1], and [3, 3] were blocked, as shown in the image below.
+The Grid World of interest was a 4x4 grid, with state [0, 1] and [3, 2] as positive and negative reward states resepctively. The positions [1, 2], [2, 0], [3, 0], [3, 1], and [3, 3] were blocked, as shown in the image below.
 
 <img src="images/grid_world.png" width=500>
 
