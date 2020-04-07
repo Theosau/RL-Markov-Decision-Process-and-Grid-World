@@ -15,4 +15,4 @@ mdp_gridworld.py contains the annotated code which solves this problem. <br />
 Notebook_to_run shows how to use the main code an provides the solution to this problem.
 
 
-This repository contains the 1st Reinforcement Learning coursework from the Department of Computing, Imperial College London, Academic Year 2019-2020, delivered by Dr A. Aldo Faisal and Dr Edward Johns. The coureseworks were developed with their PhD students. 
+This repository contains the 1st Reinforcement Learning coursework from the Department of Computing, Imperial College London, Academic Year 2019-2020, delivered by Dr A. Aldo Faisal and Dr Edward Johns. The coursework was developed with their PhD students. 
